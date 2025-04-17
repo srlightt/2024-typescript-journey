@@ -1,0 +1,19 @@
+{
+  "name": "TypeScriptStudy2024",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A structured archive of my 2024 TypeScript journey—now documented with 2025 clarity ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx --watch src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.8.0",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  }
+}
