@@ -17,3 +17,5 @@ This project serves to:
 - Demonstrate my progression in TypeScript mastery
 - Share insights with other developers
 
+## 📝 Note
+🚧 Structure and content may evolve as documentation progresses.
